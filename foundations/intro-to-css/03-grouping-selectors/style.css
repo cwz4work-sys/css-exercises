@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+.black-bg-white-text {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow-bg {
+    background-color: rgb(255,255,0);
+}
